@@ -1,4 +1,4 @@
-# Eye Movement Exercise
+# Eye Tracking Exercise
 <p align="center"><img width="400" alt="A black backround with white eyes that have a red glow around them. The irises are red and have a black pupil at the center." src="images/eye-tracking-exercise.png"> </p>
 
 # About:
