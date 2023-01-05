@@ -9,7 +9,7 @@ This is an exercise developed during MIT xPro Full Stack Professional Certificat
 
 Using CSS, we created two eyes that have a movable iris in the center. The irises move with the JavaScript "onmousemove" event. 
 
-I added in a custom "house fly" cursor so they eyes had something fun to follow around the screen.
+I added in a custom "house fly" cursor so the eyes had something fun to follow around the screen.
 
 # How to Run
 
